@@ -1,0 +1,80 @@
+<html>
+<head>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+
+  <link rel="stylesheet" href="http://unpkg.com/leaflet@1.4.0/dist/leaflet.css" />
+  <script src="http://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>
+  <script src="/leaflet-kml-master/L.KML.js"></script>
+
+  <script src="/PruneCluster-master/dist/PruneCluster.js"></script>
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    #map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+    }
+
+  .leaflet-marker-icon.prunecluster {
+    background: rgba(0,0,0,0.8);
+    border-radius: 100%;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 16px;
+  }
+
+  .prunecluster-large{
+    line-height: 44px;
+  }
+  .prunecluster-medium{
+    line-height: 40px;
+  }
+  .prunecluster-small{
+    line-height: 38px;
+  }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <script type="text/javascript">
+    // Make basemap
+    const map = new L.Map('map', { center: new L.LatLng(49, 11), zoom: 7 })
+    map.addLayer(new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'))
+
+    let filepath = ''
+    // filepath = '/data/Volt_Campaigner_Export_2021-08-05T10_23_23.580Z-potsdam-1000km.kml'
+    filepath = '/data/Volt_Campaigner_Export_2021-08-17T15_49_19.543Z-potsdam-200km.kml'
+
+    // Load kml file
+    fetch(filepath)
+      .then(res => res.text())
+      .then(kmltext => {
+        // Create new kml overlay
+        const parser = new DOMParser()
+        const kml = parser.parseFromString(kmltext, 'text/xml')
+        const track = new L.KML(kml)
+        const kml_markers = track.getLayers()
+        console.log('kml_markers', kml_markers)
+
+        var leafletView = new PruneClusterForLeaflet()
+
+        for (const marker of kml_markers) {
+          leafletView.RegisterMarker(new PruneCluster.Marker(marker._latlng.lat, marker._latlng.lng, {
+            popup: marker._popup._content,
+          }))
+        }
+
+        leafletView.ProcessView()
+        map.addLayer(leafletView)
+      })
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <kml xmlns="http://www.opengis.net/kml/2.2">
+      <Document>
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Wohngebiet , Team Bonn, Autofahrer, Fußgänger, Radfahrer, Bundestagswahl 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.0803252048790455,50.7302840388587</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Bundestagswahl 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.080298215150833,50.730329970970715</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Bundestagswahl 2021, Team Bonn, Autofahrer, Fußgänger, Radfahrer
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.080789562314749,50.731391746071154</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Team Bonn, Autofahrer, Fußgänger, Radfahrer, Bundestagswahl 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.081154007464647,50.731536476679395</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Autofahrer, Fußgänger, Radfahrer, Bundestagswahl 2021, Team Bonn
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.082664091140032,50.733076705216156</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Autofahrer, Fußgänger, Radfahrer, Bundestagswahl 2021, Team Bonn
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.08263223990798,50.73317347181032</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Autofahrer, Fußgänger, Radfahrer, Team Bonn, Bundestagswahl 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.082605082541704,50.73320700053973</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Bundestagswahl 2021, Autofahrer, Fußgänger, Radfahrer, Team Bonn
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.083927746862173,50.7328048664117</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Bundestagswahl 2021, Team Bonn, Autofahrer, Fußgänger, Radfahrer
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.084293533116579,50.73295892974404</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Autofahrer, Fußgänger, Radfahrer, Bundestagswahl 2021, Team Bonn
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.08599304780364,50.734798102142804</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Mobilität + E- Behörden</name>
+          <description>
+            <![CDATA[
+              Mobilität + E- Behörden, Wohngegend , Wohngebiet , Einkaufen
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.092115860432386,50.72593183769578</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Europäisch denken + 1,5°</name>
+          <description>
+            <![CDATA[
+              Europäisch denken + 1,5°, Bundestagswahlen 2021, BW Plakate - Bonn
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.088428325951099,50.731267024206076</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Europäisch denken + 1,5°</name>
+          <description>
+            <![CDATA[
+              Bundestagswahlen 2021, BW Plakate - Bonn, Europäisch denken + 1,5°
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.088350206613541,50.731662805127144</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Europäisch denken + 1,5°</name>
+          <description>
+            <![CDATA[
+              Europäisch denken + 1,5°, Bundestagswahlen 2021, BW Plakate - Bonn
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.089209854602814,50.731445285195655</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Autofahrer, Fußgänger, Radfahrer, Team Bonn, Bundestagswahl 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.086731996387243,50.733914281300144</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Autofahrer, Fußgänger, Radfahrer, Bundestagswahl 2021, Team Bonn
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.0869519375264645,50.733648601304</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Bundestagswahl 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.087036930024624,50.733705411530416</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Team Bonn, Bundestagswahl 2021, Autofahrer, Fußgänger, Radfahrer
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.087028715759516,50.73372860261901</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Team Bonn, Autofahrer, Fußgänger, Radfahrer, Bundestagswahl 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.086905669420958,50.733820487096594</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Team Bonn, Bundestagswahl 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.086273338645697,50.73436330260376</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Bundestagswahl 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.0882559940218925,50.734170794901125</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Europäisch denken + 1,5°</name>
+          <description>
+            <![CDATA[
+              BW Plakate - Bonn, Bundestagswahlen 2021, Europäisch denken + 1,5°
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.091141380369663,50.73245875885982</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Bundestagswahl 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.090007811784744,50.7340322263241</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Bundestagswahl 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.091293595731258,50.73365473339527</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Europäisch denken + 1,5°</name>
+          <description>
+            <![CDATA[
+              Europäisch denken + 1,5°, BW Plakate - Bonn, Bundestagswahlen 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.0925552397966385,50.731613147007366</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Europäisch denken + 1,5°</name>
+          <description>
+            <![CDATA[
+              Europäisch denken + 1,5°, Bundestagswahlen 2021, BW Plakate - Bonn
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.092420123517513,50.7326331955412</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Europäisch denken + 1,5°</name>
+          <description>
+            <![CDATA[
+              Europäisch denken + 1,5°, BW Plakate - Bonn, Bundestagswahlen 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.092752382159233,50.732749486301195</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Bundestagswahl 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.092715837061405,50.73316910323825</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Bundestagswahl 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.093162424862385,50.733029684927914</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Europäisch denken + 1,5°</name>
+          <description>
+            <![CDATA[
+              Europäisch denken + 1,5°, BW Plakate - Bonn, Bundestagswahlen 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.093557380139828,50.732856651800695</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Europäisch denken + 1,5°</name>
+          <description>
+            <![CDATA[
+              Bundestagswahlen 2021, Europäisch denken + 1,5°, BW Plakate - Bonn
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.0710305124521255,50.72608786146965</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Europäisch denken + 1,5°</name>
+          <description>
+            <![CDATA[
+              BW Plakate - Bonn, Bundestagswahlen 2021, Europäisch denken + 1,5°
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.0715780183672905,50.72574615490089</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Europäisch denken + 1,5°</name>
+          <description>
+            <![CDATA[
+              BW Plakate - Bonn, Europäisch denken + 1,5°, Bundestagswahlen 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.071667872369289,50.72620650310539</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Europäisch denken + 1,5°</name>
+          <description>
+            <![CDATA[
+              BW Plakate - Bonn, Bundestagswahlen 2021, Europäisch denken + 1,5°
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.0720430463552475,50.726467556094036</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.074135672301054,50.72627356499669</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.073915731161833,50.72640791176822</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Europäisch denken + 1,5°</name>
+          <description>
+            <![CDATA[
+              Bundestagswahlen 2021, Europäisch denken + 1,5°, BW Plakate - Bonn
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.072342783212662,50.72666684678678</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Europäisch denken + 1,5°</name>
+          <description>
+            <![CDATA[
+              BW Plakate - Bonn, Europäisch denken + 1,5°, Bundestagswahlen 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.072612680494785,50.72687568724208</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Europäisch denken + 1,5°</name>
+          <description>
+            <![CDATA[
+              BW Plakate - Bonn, Europäisch denken + 1,5°, Bundestagswahlen 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.073130011558533,50.727217597807126</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Europäisch denken + 1,5°</name>
+          <description>
+            <![CDATA[
+              Europäisch denken + 1,5°, BW Plakate - Bonn, Bundestagswahlen 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.073384821414948,50.727530854458514</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Europäisch denken + 1,5°</name>
+          <description>
+            <![CDATA[
+              BW Plakate - Bonn, Bundestagswahlen 2021, Europäisch denken + 1,5°
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.074967324733734,50.72718915841393</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              U-Bahn, Team Bonn, Bundestagswahl 2021, Autofahrer
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.083251830190421,50.73624048412708</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Europäisch denken + 1,5°</name>
+          <description>
+            <![CDATA[
+              Bundestagswahl 2021, Team Bonn, Europäisch denken + 1,5°
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.083060722798109,50.73686751124049</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Bundestagswahl 2021, Autofahrer, Fußgänger, Radfahrer, Team Bonn
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.086034622043371,50.73532753781069</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Europäisch denken + 1,5°</name>
+          <description>
+            <![CDATA[
+              BW Plakate - Bonn, Bundestagswahl 2021, Europäisch denken + 1,5°
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.08480617031455,50.736629024648984</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>Job + digi Schule</name>
+          <description>
+            <![CDATA[
+              Bundestagswahl 2021, Job + digi Schule, Autofahrer, Fußgänger, Radfahrer, Anwohner, BW Plakate - Bonn, Wohngebiet 
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.084365114569664,50.738137425412106</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Autofahrer, Fußgänger, Radfahrer, Team Bonn, Bundestagswahl 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.086233105510473,50.73583447481158</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Bundestagswahl 2021, Autofahrer, Fußgänger, Radfahrer, Team Bonn
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.086259592324495,50.7362484657556</coordinates>
+          </Point>
+        </Placemark>
+  
+        <Placemark>
+          <name>undefined</name>
+          <description>
+            <![CDATA[
+              Team Bonn, Bundestagswahl 2021
+            ]]>
+          </description>
+          <Point>
+            <coordinates>7.086222376674414,50.73663189746624</coordinates>
+          </Point>
+        </Placemark>
+  </Document>
+    </kml>
+    
