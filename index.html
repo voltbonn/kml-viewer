@@ -50,7 +50,8 @@
 
     let filepath = ''
     // filepath = '/data/Volt_Campaigner_Export_2021-08-05T10_23_23.580Z-potsdam-1000km.kml'
-    filepath = '/data/Volt_Campaigner_Export_2021-08-17T15_49_19.543Z-potsdam-200km.kml'
+    // filepath = '/data/Volt_Campaigner_Export_2021-08-17T15_49_19.543Z-potsdam-200km.kml'
+    filepath = '/data/Volt_Campaigner_Export_2021-09-08T08 50 52.711Z-potsdam-1000km.kml'
 
     // Load kml file
     fetch(filepath)
@@ -61,7 +62,7 @@
         const kml = parser.parseFromString(kmltext, 'text/xml')
         const track = new L.KML(kml)
         const kml_markers = track.getLayers()
-        console.log('kml_markers', kml_markers)
+        // console.log('kml_markers', kml_markers)
 
         var leafletView = new PruneClusterForLeaflet()
 
